@@ -19,7 +19,7 @@
     <color name="dialtacts_secondary_text_color">#b3ffffff</color>
     <color name="setting_background_color">@*android:color/material_blue_grey</color>
     <color name="recent_call_log_item_phone_icon_tint">#ffffff</color>
-    <color name="background_dialer_white">@*android:color/material_blue_grey</color>
+    <color name="background_dialer_white">#00000000</color>
     <color name="background_dialer_light">@*android:color/material_blue_grey</color>
     <color name="background_dialer_results">@*android:color/material_blue_grey</color>
     <color name="favorite_contacts_separator_color">#4dffffff</color>
